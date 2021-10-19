@@ -1,1 +1,1 @@
-# Rocketseat - NLW 06: MISSION ReactJS
+# Rocketseat - NLW TOGHETER: MISSION ReactJS
